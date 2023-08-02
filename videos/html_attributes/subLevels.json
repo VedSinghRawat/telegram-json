@@ -1,0 +1,56 @@
+[
+  {
+    "options": [
+      { "value": "h1 tag", "key": "A" },
+      { "value": "button tag", "key": "B" },
+      { "value": "h2 tag", "key": "C" },
+      { "value": "a tag", "key": "D" }
+    ],
+    "answer": "D",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "copy attribute", "key": "A" },
+      { "value": "href attribute", "key": "B" },
+      { "value": "link attribute", "key": "C" },
+      { "value": " p attribute", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Test copy mai", "key": "A" },
+      { "value": "Opening aur closing tag ke beech mai", "key": "B" },
+      { "value": "Opening tag ke andar", "key": "C" },
+      { "value": "Closing tag ke andar", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "newtab=”true”", "key": "A" },
+      { "value": "href=”_newtab”", "key": "B" },
+      { "value": "target=”_blank”", "key": "C" },
+      { "value": "target=”new_tab”", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "maximum 2", "key": "A" },
+      { "value": "Kitne bhi lga sakte hai", "key": "B" },
+      { "value": "minimum 1 ", "key": "C" },
+      { "value": "jada se jada 10 attributes", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "problem_statement": "Aapko apni website mai 'click here' naam ka link dikhana hai, jisko click karne par new tab mai codeyogi ka youtube channel open ho jae.\nCodeYogi ke youtube channel ka link - https://youtube.com/@CodeYogi",
+    "link": "https://google.com"
+  }
+]

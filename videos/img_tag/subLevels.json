@@ -1,0 +1,56 @@
+[
+  {
+    "options": [
+      { "value": "photo tag", "key": "A" },
+      { "value": "img tag", "key": "B" },
+      { "value": "href tag", "key": "C" },
+      { "value": "h1 tag", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Website ka link dene ke liye ", "key": "A" },
+      { "value": "Image ka link dene ke liye", "key": "B" },
+      { "value": "Heading dene ke liye", "key": "C" },
+      { "value": "Image ko sundar bnane ke liye", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Image ke achhe se dikhne par", "key": "A" },
+      { "value": "Heading na dikhne par", "key": "B" },
+      { "value": "Image ke achhe se load na hone par ", "key": "C" },
+      { "value": "kabhi Kabhi mood hone par", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Advanced tag", "key": "A" },
+      { "value": "Self-closing tag", "key": "B" },
+      { "value": "Opening tag ", "key": "C" },
+      { "value": "Automatic tag", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "h1 element", "key": "A" },
+      { "value": "a element", "key": "B" },
+      { "value": "button element", "key": "C" },
+      { "value": "img element", "key": "D" }
+    ],
+    "answer": "D",
+    "reason": null
+  },
+  {
+    "problem_statement": "Aapko ek website bnani hai, jisme ek waterfall ki image dikhe aur agar kisi wagah se image load na ho pae to uski jagah \"waterfall\" text likha hua aa jae. Aap internet se koi bhi waterfall ki image use kar sakte hai.",
+    "link": "https://google.com"
+  }
+]

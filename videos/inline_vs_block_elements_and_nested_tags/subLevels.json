@@ -1,0 +1,76 @@
+[
+  {
+    "options": [
+      { "value": "p tag", "key": "A" },
+      { "value": "a tag", "key": "B" },
+      { "value": "h1 tag", "key": "C" },
+      { "value": "div tag", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "div", "key": "A" },
+      { "value": "span", "key": "B" },
+      { "value": "a", "key": "C" },
+      { "value": "h1", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Inline elements", "key": "A" },
+      { "value": "Block elements", "key": "B" },
+      { "value": "Inline and Block elements", "key": "C" },
+      { "value": "heading elements", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Inline elements", "key": "A" },
+      { "value": "Block elements", "key": "B" },
+      { "value": "Inline and Block elements", "key": "C" },
+      { "value": "a element", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Brother tags", "key": "A" },
+      { "value": "Father tags", "key": "B" },
+      { "value": "Friend tags", "key": "C" },
+      { "value": "Nested tags", "key": "D" }
+    ],
+    "answer": "D",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "h1", "key": "A" },
+      { "value": "p", "key": "B" },
+      { "value": "h5", "key": "C" },
+      { "value": "a", "key": "D" }
+    ],
+    "answer": "D",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "2", "key": "A" },
+      { "value": "7", "key": "B" },
+      { "value": "unlimited", "key": "C" },
+      { "value": "4", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "problem_statement": "Aapko coding karke is image ki terah dikhne wali ek website bnani hai.\n![image](https://media.discordapp.net/attachments/1128549911424671877/1135106855748784209/website_10.png)\nKuch important links jinki zrurat aapko website bnane mai padegi:-\n\n- CodeYogi website - https://codeyogi.io\n- CodeYogi youtube  - https://youtube.com/@CodeYogi\n- CodeYogi twitter - https://twitter.com/TheCodeYogi_\n- CodeYogi linkedIn - https://www.linkedin.com/company/thecodeyogi/\n- CodeYogi instagram - https://www.instagram.com/TheCodeYogi",
+    "link": "https://google.com"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "options": [
+      { "value": "Css likhne ke liye", "key": "A" },
+      { "value": "Button dikhane ke liye", "key": "B" },
+      { "value": "Style marne ke liye", "key": "C" },
+      { "value": "Image dikhane ke liye", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Ruleset mai likhi properties kispar apply hongi", "key": "A" },
+      { "value": "Hera pheri 3 mai hero koin hoga", "key": "B" },
+      { "value": "Is ruleset mai kitni properties likhi hai", "key": "C" },
+      { "value": "Css code mai kitni lines hai", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "heading red, paragraph blue", "key": "A" },
+      { "value": "heading blue, heading red", "key": "B" },
+      { "value": "heading green, paragraph yellow", "key": "C" },
+      { "value": "heading blue, paragraph green", "key": "D" }
+    ],
+    "answer": "D",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "website ka naam", "key": "A" },
+      { "value": "style tag", "key": "B" },
+      { "value": "css properties", "key": "C" },
+      { "value": "web developer ka naam", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "font-size", "key": "A" },
+      { "value": "text-size", "key": "B" },
+      { "value": "size-of-text", "key": "C" },
+      { "value": "size-of-font", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "pix", "key": "A" },
+      { "value": "px", "key": "B" },
+      { "value": "pex", "key": "C" },
+      { "value": "ps", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "problem_statement": "Aapko same is image ki terah dikhne wali ek website bnani hai.\n![image](https://media.discordapp.net/attachments/1128549911424671877/1134688967699222618/Website.png)\nHint: Heading size is 40 pixels.",
+    "link": "https://google.com"
+  }
+]

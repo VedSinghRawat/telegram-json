@@ -1,0 +1,32 @@
+[
+  {
+    "options": [
+      { "value": "Jis code ko hath saaf karke likha gya ho", "key": "A" },
+      { "value": "Clean shave krke likha hua code", "key": "B" },
+      { "value": "Jis code ko padhna aur smajna aasaan ho", "key": "C" },
+      { "value": " Esa code jo computer ko saaf krke likha gya ho", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Website ka diet plan", "key": "A" },
+      { "value": "Website mai kya content dikhega", "key": "B" },
+      { "value": "Website ka Background color", "key": "C" },
+      { "value": "Website mai date aur time", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": " HTML", "key": "A" },
+      { "value": "CSS", "key": "B" },
+      { "value": "React", "key": "C" },
+      { "value": "JavaScript", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  }
+]

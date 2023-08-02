@@ -1,0 +1,22 @@
+[
+  {
+    "options": [
+      { "value": "Hindi", "key": "A" },
+      { "value": "German", "key": "B" },
+      { "value": "HTML", "key": "C" },
+      { "value": "Sanskrit", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Cook banne ke liye", "key": "A" },
+      { "value": "Web developer banne ke liye", "key": "B" },
+      { "value": "Docter banne ke liye", "key": "C" },
+      { "value": "Scientist banne ke liye", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  }
+]

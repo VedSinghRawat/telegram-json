@@ -1,0 +1,56 @@
+[
+  {
+    "options": [
+      { "value": "Singing aur Dancing", "key": "A" },
+      { "value": "Tags aur Syntax", "key": "B" },
+      { "value": "Batting aur Bowling", "key": "C" },
+      { "value": "Hindi aur English", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Hero tag", "key": "A" },
+      { "value": "Button tag", "key": "B" },
+      { "value": "p tag", "key": "C" },
+      { "value": "Developer tag", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Paragraph", "key": "A" },
+      { "value": "Movie", "key": "B" },
+      { "value": "Image", "key": "C" },
+      { "value": "Heading", "key": "D" }
+    ],
+    "answer": "D",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "h3", "key": "A" },
+      { "value": "h1", "key": "B" },
+      { "value": "p", "key": "C" },
+      { "value": "h6", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Bike", "key": "A" },
+      { "value": "Forward slash", "key": "B" },
+      { "value": "Wife", "key": "C" },
+      { "value": "Pizza", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "problem_statement": "Aapko coding karke is image ki terah dikhne wali ek website bnani hai.\n![image](https://media.discordapp.net/attachments/1000444317862744234/1089867663712456844/Exercise_1_VIDEO_4.jpg)",
+    "link": "https://google.com"
+  }
+]

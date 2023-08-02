@@ -1,0 +1,62 @@
+[
+  {
+    "options": [
+      { "value": "Boards mai 90%", "key": "A" },
+      { "value": "Website ka address", "key": "B" },
+      { "value": "Bhut sare paise", "key": "C" },
+      { "value": "Uska smartphone", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Dance", "key": "A" },
+      { "value": "Singing", "key": "B" },
+      { "value": "Bowling", "key": "C" },
+      { "value": "Coding", "key": "D" }
+    ],
+    "answer": "D",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "App development", "key": "A" },
+      { "value": "Web development", "key": "B" },
+      { "value": "Game development", "key": "C" },
+      { "value": "Internet development", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Coding krke khana khane ko", "key": "A" },
+      { "value": "Coding krke moj udane ko", "key": "B" },
+      { "value": "Coding krke website bnane ko", "key": "C" },
+      { "value": "Coding krke bhul jane ko", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Dancer", "key": "A" },
+      { "value": "Web developer", "key": "B" },
+      { "value": "Storekeeper", "key": "C" },
+      { "value": "Producer", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Heater", "key": "A" },
+      { "value": "Book", "key": "B" },
+      { "value": "Web browser", "key": "C" },
+      { "value": "Keyboard", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  }
+]

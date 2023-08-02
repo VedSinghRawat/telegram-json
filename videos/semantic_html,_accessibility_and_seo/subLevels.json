@@ -1,0 +1,42 @@
+[
+  {
+    "options": [
+      { "value": "Acceptance", "key": "A" },
+      { "value": "Attribute", "key": "B" },
+      { "value": "Accessibility", "key": "C" },
+      { "value": "Excellent", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Anumaan se", "key": "A" },
+      { "value": "Screen reader se", "key": "B" },
+      { "value": "Printer se", "key": "C" },
+      { "value": "Play station se", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "South Eastern Optimization", "key": "A" },
+      { "value": "Search Engine Organisation", "key": "B" },
+      { "value": "South Europe Organisation", "key": "C" },
+      { "value": "Search Engine Optimization", "key": "D" }
+    ],
+    "answer": "D",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Semantic HTML", "key": "A" },
+      { "value": "Sahi HTML", "key": "B" },
+      { "value": "Even HTML", "key": "C" },
+      { "value": "Excellent HTML", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "options": [
+      { "value": "Button", "key": "A" },
+      { "value": "Smartphone", "key": "B" },
+      { "value": "Code", "key": "C" },
+      { "value": "Amazon", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Smartphone ko hero bnane ke liye", "key": "A" },
+      { "value": "Smartphone ko charge krne ke liye", "key": "B" },
+      { "value": "Smartphone ko command dene ke liye", "key": "C" },
+      { "value": "Smartphone ko Kahani sunane ke liye", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Coder ke code likhne ko", "key": "A" },
+      { "value": "Coder ke game khelne ko", "key": "B" },
+      { "value": "Coder ke dance krne ko", "key": "C" },
+      { "value": "Coder ke khana khane ko", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  },
+  {
+    "options": [
+      { "value": "Chef", "key": "A" },
+      { "value": "Coder", "key": "B" },
+      { "value": "App", "key": "C" },
+      { "value": "Computer", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  }
+]
