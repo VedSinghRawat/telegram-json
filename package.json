@@ -3,9 +3,23 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "telegram": "./index.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "bd": "npm run build && npm run deploy",
+    "build": "npm run clean && tsc && npm run copy",
+    "deploy": "cd ./build && npm uninstall -g && npm install -g && cd ..",
+    "clean": "rimraf ./build",
+    "copy": "cpy ./package.json ./build/ --flat"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "@types/node": "^18.16.3",
+    "cpy-cli": "^4.2.0",
+    "rimraf": "^5.0.0",
+    "typescript": "^5.0.4"
+  }
 }
