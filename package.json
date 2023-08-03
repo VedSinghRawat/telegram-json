@@ -12,7 +12,7 @@
     "deploy": "cd ./build && npm uninstall -g && npm install -g && cd ..",
     "clean": "rimraf ./build",
     "copy": "cpy ./package.json ./build/ --flat",
-    "prepare": "husky install"
+    "husk": "husky install"
   },
   "author": "",
   "license": "ISC",

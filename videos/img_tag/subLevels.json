@@ -1,5 +1,7 @@
 [
   {
+    "id": 29,
+    "question_text": "Website pe image dikhane ke liye konsa html tag use hota hai ?",
     "options": [
       { "value": "photo tag", "key": "A" },
       { "value": "img tag", "key": "B" },
@@ -10,6 +12,8 @@
     "reason": null
   },
   {
+    "id": 30,
+    "question_text": "img tag mai ‘src’ attribute kyu use hota hai ?",
     "options": [
       { "value": "Website ka link dene ke liye ", "key": "A" },
       { "value": "Image ka link dene ke liye", "key": "B" },
@@ -20,6 +24,8 @@
     "reason": null
   },
   {
+    "id": 31,
+    "question_text": "‘alt’ attribute mai likha text website par kab dikhta hai ?",
     "options": [
       { "value": "Image ke achhe se dikhne par", "key": "A" },
       { "value": "Heading na dikhne par", "key": "B" },
@@ -30,6 +36,8 @@
     "reason": null
   },
   {
+    "id": 32,
+    "question_text": "Bina closing tag ke close hone wale html tag ko kya kahte hai ?",
     "options": [
       { "value": "Advanced tag", "key": "A" },
       { "value": "Self-closing tag", "key": "B" },
@@ -40,6 +48,8 @@
     "reason": null
   },
   {
+    "id": 33,
+    "question_text": "Inn sab mai se void element konsa hai ?",
     "options": [
       { "value": "h1 element", "key": "A" },
       { "value": "a element", "key": "B" },
@@ -50,6 +60,7 @@
     "reason": null
   },
   {
+    "id": 66,
     "problem_statement": "Aapko ek website bnani hai, jisme ek waterfall ki image dikhe aur agar kisi wagah se image load na ho pae to uski jagah \"waterfall\" text likha hua aa jae. Aap internet se koi bhi waterfall ki image use kar sakte hai.",
     "link": "https://google.com"
   }

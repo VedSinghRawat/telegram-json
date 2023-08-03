@@ -1,5 +1,7 @@
 [
   {
+    "id": 1,
+    "question_text": "App mai likhi commands ko kya kahte hai?",
     "options": [
       { "value": "Button", "key": "A" },
       { "value": "Smartphone", "key": "B" },
@@ -10,6 +12,20 @@
     "reason": null
   },
   {
+    "id": 2,
+    "question_text": "Code likhne wale logo ko kya kahte hai ?",
+    "options": [
+      { "value": "Chef", "key": "A" },
+      { "value": "Coder", "key": "B" },
+      { "value": "App", "key": "C" },
+      { "value": "Computer", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "id": 3,
+    "question_text": "Smartphone mai apps kyu hoti hai ?",
     "options": [
       { "value": "Smartphone ko hero bnane ke liye", "key": "A" },
       { "value": "Smartphone ko charge krne ke liye", "key": "B" },
@@ -20,6 +36,8 @@
     "reason": null
   },
   {
+    "id": 4,
+    "question_text": "Coding kise kahte hai ?",
     "options": [
       { "value": "Coder ke code likhne ko", "key": "A" },
       { "value": "Coder ke game khelne ko", "key": "B" },
@@ -27,16 +45,6 @@
       { "value": "Coder ke khana khane ko", "key": "D" }
     ],
     "answer": "A",
-    "reason": null
-  },
-  {
-    "options": [
-      { "value": "Chef", "key": "A" },
-      { "value": "Coder", "key": "B" },
-      { "value": "App", "key": "C" },
-      { "value": "Computer", "key": "D" }
-    ],
-    "answer": "B",
     "reason": null
   }
 ]

@@ -1,25 +1,7 @@
 [
   {
-    "options": [
-      { "value": "p tag", "key": "A" },
-      { "value": "a tag", "key": "B" },
-      { "value": "h1 tag", "key": "C" },
-      { "value": "div tag", "key": "D" }
-    ],
-    "answer": "A",
-    "reason": null
-  },
-  {
-    "options": [
-      { "value": "div", "key": "A" },
-      { "value": "span", "key": "B" },
-      { "value": "a", "key": "C" },
-      { "value": "h1", "key": "D" }
-    ],
-    "answer": "B",
-    "reason": null
-  },
-  {
+    "id": 44,
+    "question_text": "Konse elements zrurat ke hisab se jagah lete hain ?",
     "options": [
       { "value": "Inline elements", "key": "A" },
       { "value": "Block elements", "key": "B" },
@@ -30,6 +12,8 @@
     "reason": null
   },
   {
+    "id": 45,
+    "question_text": "Konse elements thoda sa content hone par bhi puri line gher lete hai ?",
     "options": [
       { "value": "Inline elements", "key": "A" },
       { "value": "Block elements", "key": "B" },
@@ -40,6 +24,8 @@
     "reason": null
   },
   {
+    "id": 46,
+    "question_text": "Tag ke andar tag ko kya bola jata hai ?",
     "options": [
       { "value": "Brother tags", "key": "A" },
       { "value": "Father tags", "key": "B" },
@@ -50,6 +36,8 @@
     "reason": null
   },
   {
+    "id": 47,
+    "question_text": "In sab mai se ek inline element konsa hai ?",
     "options": [
       { "value": "h1", "key": "A" },
       { "value": "p", "key": "B" },
@@ -60,6 +48,8 @@
     "reason": null
   },
   {
+    "id": 48,
+    "question_text": "Ek code mai kitne nested tags ho sakte hai ?",
     "options": [
       { "value": "2", "key": "A" },
       { "value": "7", "key": "B" },
@@ -70,7 +60,32 @@
     "reason": null
   },
   {
+    "id": 49,
+    "question_text": "Is code mai esa konsa tag hai jo div tag ka children hai aur a tag ka parent ?\n![image](https://media.discordapp.net/attachments/1128549911424671877/1133969268715831356/exercise10.png)",
+    "options": [
+      { "value": "p tag", "key": "A" },
+      { "value": "a tag", "key": "B" },
+      { "value": "h1 tag", "key": "C" },
+      { "value": "div tag", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  },
+  {
+    "id": 50,
+    "question_text": "Ek tag ke content ko alag alag hisso mai todne ka kaam konsa tag karta hai ?",
+    "options": [
+      { "value": "div", "key": "A" },
+      { "value": "span", "key": "B" },
+      { "value": "a", "key": "C" },
+      { "value": "h1", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
     "problem_statement": "Aapko coding karke is image ki terah dikhne wali ek website bnani hai.\n![image](https://media.discordapp.net/attachments/1128549911424671877/1135106855748784209/website_10.png)\nKuch important links jinki zrurat aapko website bnane mai padegi:-\n\n- CodeYogi website - https://codeyogi.io\n- CodeYogi youtube  - https://youtube.com/@CodeYogi\n- CodeYogi twitter - https://twitter.com/TheCodeYogi_\n- CodeYogi linkedIn - https://www.linkedin.com/company/thecodeyogi/\n- CodeYogi instagram - https://www.instagram.com/TheCodeYogi",
+    "id": 68,
     "link": "https://google.com"
   }
 ]

@@ -1,5 +1,7 @@
 [
   {
+    "id": 34,
+    "question_text": "HTML mai style tag kyu use hota hai ?",
     "options": [
       { "value": "Css likhne ke liye", "key": "A" },
       { "value": "Button dikhane ke liye", "key": "B" },
@@ -10,6 +12,8 @@
     "reason": null
   },
   {
+    "id": 35,
+    "question_text": "Css ruleset mai likha selector, browser ko kya btata hai ?",
     "options": [
       { "value": "Ruleset mai likhi properties kispar apply hongi", "key": "A" },
       { "value": "Hera pheri 3 mai hero koin hoga", "key": "B" },
@@ -20,6 +24,8 @@
     "reason": null
   },
   {
+    "id": 36,
+    "question_text": "Is code ke hisab se heading aur paragraph konse color ke dikhenge ?\n![image](https://media.discordapp.net/attachments/1128549911424671877/1133021969168732230/exercise.png)",
     "options": [
       { "value": "heading red, paragraph blue", "key": "A" },
       { "value": "heading blue, heading red", "key": "B" },
@@ -30,6 +36,8 @@
     "reason": null
   },
   {
+    "id": 37,
+    "question_text": "Css ruleset mai curly braces { } ke andar kya likha jata hai ?",
     "options": [
       { "value": "website ka naam", "key": "A" },
       { "value": "style tag", "key": "B" },
@@ -40,6 +48,8 @@
     "reason": null
   },
   {
+    "id": 38,
+    "question_text": "Text ka size bdane ke liye konsi css property use hoti hai ?",
     "options": [
       { "value": "font-size", "key": "A" },
       { "value": "text-size", "key": "B" },
@@ -50,6 +60,8 @@
     "reason": null
   },
   {
+    "id": 39,
+    "question_text": "Pixels ko code mai kis short form ke sath likha jata hai ?",
     "options": [
       { "value": "pix", "key": "A" },
       { "value": "px", "key": "B" },
@@ -60,6 +72,7 @@
     "reason": null
   },
   {
+    "id": 67,
     "problem_statement": "Aapko same is image ki terah dikhne wali ek website bnani hai.\n![image](https://media.discordapp.net/attachments/1128549911424671877/1134688967699222618/Website.png)\nHint: Heading size is 40 pixels.",
     "link": "https://google.com"
   }

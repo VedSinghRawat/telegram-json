@@ -1,0 +1,151 @@
+[
+  {
+    "id": 52,
+    "question_text": "In sab mai se, border width, border color aur border style property ko ek line mai likhne ka sahi tarika konsa hai ?",
+    "options": [
+      { "value": "border: green 2px solid;", "key": "A" },
+      { "value": "green border: 2px solid;", "key": "B" },
+      { "value": "border: 2px solid green;", "key": "C" },
+      { "value": "border: 2px green solid;", "key": "D" }
+    ],
+    "answer": "C",
+    "reason": null
+  },
+  {
+    "id": 53,
+    "question_text": "Border ke corners ( कोनो ) ko gol karne ke liye, ham konsi css property ka use karte hai ?",
+    "options": [
+      { "value": "border-round", "key": "A" },
+      { "value": "border-radius", "key": "B" },
+      { "value": "border-nosharp", "key": "C" },
+      { "value": "border-curve", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "id": 54,
+    "question_text": "In sab mai se konsi property inline elements par kaam nahi karti ?",
+    "options": [
+      { "value": "background property", "key": "A" },
+      { "value": "font-size property", "key": "B" },
+      { "value": "color property", "key": "C" },
+      { "value": "height aur width property", "key": "D" }
+    ],
+    "answer": "D",
+    "reason": null
+  },
+  {
+    "id": 55,
+    "question_text": "Kisi bhi element mai border aur content area ke beech ke space ko kya bolte hai ?",
+    "options": [
+      { "value": "margin", "key": "A" },
+      { "value": "padding", "key": "B" },
+      { "value": "height", "key": "C" },
+      { "value": "border-width", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "id": 56,
+    "question_text": "![image](https://media.discordapp.net/attachments/1128549911424671877/1134022544991731762/exercise11.2.png)\nIn sabhi mai se is button par konsi padding property lag rahi hai ?",
+    "options": [
+      { "value": "padding: 20px 40px", "key": "A" },
+      { "value": "padding: 40px 20px", "key": "B" },
+      { "value": "padding: 20px 20px 40px 40px", "key": "C" },
+      { "value": "padding: 40px 20px 40px 20px", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  },
+  {
+    "id": 57,
+    "question_text": "Inline element ko block element mai badalne ke liye, konsi css property use hoti hai ?",
+    "options": [
+      { "value": "display: non-inline", "key": "A" },
+      { "value": "display: block", "key": "B" },
+      { "value": "display: remove-inline", "key": "C" },
+      { "value": "display: inline", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "question_text": "Kisi element ko padding right dene ke liye inme se konsi css property ka use hota hai ?",
+    "answer": "C",
+    "reason": null,
+    "options": [
+      { "value": "right-padding", "key": "A" },
+      { "value": "gap-right", "key": "B" },
+      { "value": "padding-right", "key": "C" },
+      { "value": "padding-space-right", "key": "D" }
+    ],
+    "id": 76
+  },
+  {
+    "question_text": "Kisi element par margin add karne ke liye inn mai se konsi css property use hoti hai ?",
+    "answer": "D",
+    "reason": null,
+    "options": [
+      { "value": "space-around", "key": "A" },
+      { "value": "padding", "key": "B" },
+      { "value": "all-margin", "key": "C" },
+      { "value": "margin", "key": "D" }
+    ],
+    "id": 77
+  },
+  {
+    "id": 58,
+    "question_text": "![image](https://media.discordapp.net/attachments/1128549911424671877/1134026578683248750/exercise_11.3.png) \nIs code mai likhi hui margins ko ek line mai likhne ka konsa tarika sahi hai ?",
+    "options": [
+      { "value": "margin: 10px 15px 20px 30px;", "key": "A" },
+      { "value": "margin: 10px 15px 30px 20px;", "key": "B" },
+      { "value": "margin: 15px 20px 30px 10px;", "key": "C" },
+      { "value": "margin: 20px 15px 10px 30px;", "key": "D" }
+    ],
+    "answer": "D",
+    "reason": null
+  },
+  {
+    "id": 59,
+    "question_text": "Kisi css ruleset ko, jab code mai likhe sare tags par lgana ho, to uss ruleset ka selector kya hoga ?",
+    "options": [
+      { "value": "asterisk ( * )", "key": "A" },
+      { "value": "equal to ( = )", "key": "B" },
+      { "value": "addition ( + )", "key": "C" },
+      { "value": "all", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  },
+  {
+    "id": 60,
+    "question_text": "![image](https://media.discordapp.net/attachments/1128549911424671877/1134179868070912171/exercise_14.png)\nIs website mai heading aur paragraph ke beech kitne pixels ka space aaega ?",
+    "options": [
+      { "value": "70px", "key": "A" },
+      { "value": "30px", "key": "B" },
+      { "value": "40px", "key": "C" },
+      { "value": "100px", "key": "D" }
+    ],
+    "answer": "A",
+    "reason": null
+  },
+  {
+    "id": 61,
+    "question_text": "Vo konse elements hai, jo content ke hisab se width lete hai aur unpar top bottom margin bhi kaam karti hai ?",
+    "options": [
+      { "value": "inline elements", "key": "A" },
+      { "value": "inline-block elements", "key": "B" },
+      { "value": "block elements", "key": "C" },
+      { "value": "block-inline elements", "key": "D" }
+    ],
+    "answer": "B",
+    "reason": null
+  },
+  {
+    "problem_statement": "Aapko iss image ki terah dikhne wali ek website bnani hai. Jisme click here naam ke link pe click karne par, codeyogi ki website open ho jae.\n![image](https://media.discordapp.net/attachments/1128549911424671877/1136369366741565530/exercise_11.png)\nSome hints for this assignment:\n1. Heading text size - 40px\n2. Link text size - 20px\n3. CodeYogi website link - https://codeyogi.io/",
+    "id": 97,
+    "link": "https://google.com"
+  }
+]

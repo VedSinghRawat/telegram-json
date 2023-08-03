@@ -3,6 +3,7 @@
 import { readFileSync, writeFileSync } from 'fs'
 import path from 'path'
 import { videosWithSubLevelsSchema } from './validation'
+import { ZodError } from 'zod'
 
 main()
 
@@ -26,11 +27,17 @@ function main() {
     return videoWithSubLevels
   })
 
-  videosWithSubLevelsSchema.parse(videoListFilePath)
+  try {
+    videosWithSubLevelsSchema.parse(videosWithSubLevels)
 
-  const videosWithSubLevelsFilePath = path.join(currDir, 'videos/videosWithSubLevels.json')
+    const videosWithSubLevelsFilePath = path.join(currDir, 'videos/videosWithSubLevels.json')
 
-  writeFileSync(videosWithSubLevelsFilePath, JSON.stringify(videosWithSubLevels))
+    writeFileSync(videosWithSubLevelsFilePath, JSON.stringify(videosWithSubLevels))
+  } catch (err) {
+    if (err instanceof ZodError) {
+      console.error(err)
+    }
+  }
 }
 
 function validateQuestion(q: Question) {}

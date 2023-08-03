@@ -1,5 +1,7 @@
 [
   {
+    "id": 23,
+    "question_text": "Website mai link dikhane ke liye konsa html tag use hota hai ?",
     "options": [
       { "value": "h1 tag", "key": "A" },
       { "value": "button tag", "key": "B" },
@@ -10,6 +12,8 @@
     "reason": null
   },
   {
+    "id": 24,
+    "question_text": "‘a’ tag mai link add karne ke liye konsa attribute use hota hai ?",
     "options": [
       { "value": "copy attribute", "key": "A" },
       { "value": "href attribute", "key": "B" },
@@ -20,6 +24,8 @@
     "reason": null
   },
   {
+    "id": 25,
+    "question_text": "Kisi bhi HTML tag mai, html attribute kaha likhe jate hai ?",
     "options": [
       { "value": "Test copy mai", "key": "A" },
       { "value": "Opening aur closing tag ke beech mai", "key": "B" },
@@ -30,6 +36,8 @@
     "reason": null
   },
   {
+    "id": 26,
+    "question_text": "Konsa html attribute link ko hamesha ek new tab mai open karta hai ?",
     "options": [
       { "value": "newtab=”true”", "key": "A" },
       { "value": "href=”_newtab”", "key": "B" },
@@ -40,6 +48,8 @@
     "reason": null
   },
   {
+    "id": 27,
+    "question_text": "Ek html tag mai jayda se jayda kitne html attribute lga sakte hai ?",
     "options": [
       { "value": "maximum 2", "key": "A" },
       { "value": "Kitne bhi lga sakte hai", "key": "B" },
@@ -51,6 +61,7 @@
   },
   {
     "problem_statement": "Aapko apni website mai 'click here' naam ka link dikhana hai, jisko click karne par new tab mai codeyogi ka youtube channel open ho jae.\nCodeYogi ke youtube channel ka link - https://youtube.com/@CodeYogi",
+    "id": 65,
     "link": "https://google.com"
   }
 ]

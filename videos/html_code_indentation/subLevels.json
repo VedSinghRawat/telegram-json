@@ -1,5 +1,7 @@
 [
   {
+    "id": 20,
+    "question_text": "Coding mai clean code ka kya matlab hai ?",
     "options": [
       { "value": "Jis code ko hath saaf karke likha gya ho", "key": "A" },
       { "value": "Clean shave krke likha hua code", "key": "B" },
@@ -10,6 +12,8 @@
     "reason": null
   },
   {
+    "id": 21,
+    "question_text": "HTML language ki help se ham browser ko website ke bare mai kya btate hai ?",
     "options": [
       { "value": "Website ka diet plan", "key": "A" },
       { "value": "Website mai kya content dikhega", "key": "B" },
@@ -20,6 +24,8 @@
     "reason": null
   },
   {
+    "id": 22,
+    "question_text": "Ham website ke content ka color, position aur size browser ko konsi language ki help se btate hai ?",
     "options": [
       { "value": " HTML", "key": "A" },
       { "value": "CSS", "key": "B" },
