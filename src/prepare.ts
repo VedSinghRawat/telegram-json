@@ -35,9 +35,7 @@ function main() {
     writeFileSync(videosWithSubLevelsFilePath, JSON.stringify(videosWithSubLevels))
   } catch (err) {
     if (err instanceof ZodError) {
-      console.error(err)
+      throw err.issues
     }
   }
 }
-
-function validateQuestion(q: Question) {}
