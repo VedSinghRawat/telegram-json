@@ -2,6 +2,7 @@
 
 import { readFileSync, writeFileSync } from 'fs'
 import path from 'path'
+import { videosWithSubLevelsSchema } from './validation'
 
 main()
 
@@ -25,7 +26,11 @@ function main() {
     return videoWithSubLevels
   })
 
+  videosWithSubLevelsSchema.parse(videoListFilePath)
+
   const videosWithSubLevelsFilePath = path.join(currDir, 'videos/videosWithSubLevels.json')
 
   writeFileSync(videosWithSubLevelsFilePath, JSON.stringify(videosWithSubLevels))
 }
+
+function validateQuestion(q: Question) {}

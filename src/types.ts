@@ -11,6 +11,7 @@ type QuestionOption = {
 }
 type Question = {
   id: number
+  question:
   options: QuestionOption[]
   answer: string
   reason: string | null
